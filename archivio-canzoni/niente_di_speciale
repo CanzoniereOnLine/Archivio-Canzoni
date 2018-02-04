@@ -1,0 +1,112 @@
+%titolo{Niente di speciale}
+%autore{Lo stato sociale}
+%album{Amore, lavoro e altri miti da sfatare}
+%tonalita{Do}
+%famiglia{Altre}
+%gruppo{}
+%momenti{}
+%identificatore{niente_di_speciale}
+%data_revisione{2018_02_04}
+%trascrittore{Chiara Galafassi}
+%video{https://www.youtube.com/watch?v=fy6Fgyi9fHw}
+\beginsong{Niente di speciale}[by={Lo stato sociale}]
+\beginverse
+Come \[C]faccio a dirti che non mi piace
+il nome di tua so\[F]rella, il tuo freno a motore
+il tuo tenermi na\[C]scosto agli occhi del mondo
+quando è il \[G]mondo che non sai guardare?
+E tutti i tuoi con\[A-]sigli servono a poco,
+sono bra\[F]vissimo a sbagliare da solo.
+Come faccio a tenere lon\[C]tana questa canzone da chi
+\[G]non la deve ascoltare?
+Se sa\[C]pesse quanto ho scritto di te
+ti farebbe un con\[F]tratto il mio editore.
+Mi porteresti a Sara\[C]jevo
+nell'autunno dei 30 anni
+e non do\[G]vresti più lavorare.
+E cammino al te\[A-]lefono su un giro di Do
+anche adesso che un \[F]po' ho imparato a suonare
+perché sei come \[C]me
+più sei leggera
+meno \[G]sei superficiale.
+\endverse
+\beginchorus
+Ti ho so\[A-]gnato in un ufficio FS,
+cantavi in fran\[F]cese allo sportello reclami
+ti prendevano in \[C]giro tutti i miei amici \brk travestiti \[G] da ballerine e da nani.
+Di che \[A-]cosa hai paura davvero?
+Forse che la \[F]gatta scappi per le scale?
+Non sai quanto in\[C]vidio gli animali
+loro capiscono \[G]sempre da chi tornare.
+Vorrei una do\[A-]menica pomeriggio
+per ogni lune\[F]dì che non ho saputo iniziare,
+ma siamo una \[C]storia che non si può dire
+non abbiamo \[G]niente di speciale.
+Non fosse che \[A-]io ho paura di crescere
+e tu \[F]quella di nuotare
+e sai \[C]dirmi che mi ami, ma solo finché
+non si \[G]esce dall'ascensore.
+Eppure lo \[A-]senti anche tu
+che abbiamo \[G]fatto
+lo stesso \[C]errore.
+\endchorus
+\beginverse
+Lo ^sai che chi ci dorme nei letti
+ha la bocca a^perta per abboccare?
+Sai che è ^facile odiare il terremoto
+il dif^ficile è ricostruire?
+Sai che ho pro^vato pena per te
+non scegliere, ^scegliere di subire,
+non è so^gnare che aiuta a vivere
+è vivere che ^deve aiutarti a sognare.
+E allora ^tieniti pure la coperta
+sono bravissimo ad a^vere freddo da solo,
+tieniti il tuo ego^ismo discreto 
+se non sei capace di a^verlo alla luce del sole.
+Tieniti le mie pa^role
+che hai 35 metri ^quadri da arredare.
+Anzi ^tienimi ancora i capelli, senza te ^non so più
+respirare.
+\endverse
+
+\beginchorus
+Ti ho so\[A-]gnato in un ufficio FS,
+cantavi in fran\[F]cese allo sportello reclami
+ti prendevano in \[C]giro tutti i miei amici \brk travestiti \[G] da ballerine e da nani.
+Di che \[A-]cosa hai paura davvero?
+Forse che la \[F]gatta scappi per le scale?
+Non sai quanto in\[C]vidio gli animali
+loro capiscono \[G]sempre da chi tornare.
+Vorrei una do\[A-]menica pomeriggio
+per ogni lune\[F]dì che non ho saputo iniziare,
+ma siamo una \[C]storia che non si può dire
+non abbiamo \[G]niente di speciale.
+Non fosse che \[A-]io ho paura di crescere
+e tu \[F]quella di nuotare
+e sai \[C]dirmi che mi ami, ma solo finché
+non si \[G]esce dall'ascensore.
+Eppure lo \[A-]senti anche tu
+che abbiamo \[G]fatto
+lo stesso \[C]errore.
+\endchorus
+
+\ifchorded
+\beginverse*
+\vspace*{-\versesep}
+{\nolyrics \[F] \[F]\[C] \[G] \rep{2}}
+\endverse
+\fi
+
+\beginverse
+\[F]Tienimi le mani
+non an\[C]neghe\[G]rai. \rep{5}
+\[F]Potrà capitarti di bere
+ma \[C]non anneghe\[G]rai.
+\[F]Ogni volta che scegli, tu scegli
+il tipo di \[C]schiavo che non sa\[G]rai
+\endverse
+
+\beginverse*
+\[F]\[F] \[C] \[G] 
+\endverse
+\endsong
