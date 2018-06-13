@@ -1,0 +1,33 @@
+%titolo{Padre nostro}
+%autore{Simon e Garfunkel}
+%album{}
+%tonalita{LA-}
+%famiglia{Liturgica}
+%gruppo{}
+%momenti{Padre nostro}
+%identificatore{padre_nostro_simon}
+%data_revisione{2018_06_12}
+%trascrittore{Francesco Endrici}
+%video{https://www.youtube.com/watch?v=V_2Mwmn49-0}
+\beginsong{Padre nostro}[by={Simon e Garfunkel}]
+\beginverse
+\[A-] Padre nostro tu che \[G]stai
+in chi ama veri\[A-]tà
+ed il regno che Lui \[F]ci la\[C]sciò
+resti sempre nei \[F]nostri \[C]cuor
+e l'A\[F]more che suo Figlio ci do\[C]nò,
+oh Signor, ri\[C]manga \[G]sempre in \[A-]noi.
+\endverse
+\beginverse*
+Padre nostro\dots
+\endverse
+\beginverse
+\[A-] E nel pan dell'uni\[G]tà,
+dacci la fraterni\[A-]tà
+e dimentica il \[F]nostro \[C]mal
+che anche noi sappiamo \[F]perdo\[C]nar
+e non per\[F]mettere
+che cadiamo in tenta\[C]zion,
+oh Signor,\[A-] abbi pie\[G]tà del \[A-]mondo.
+\endverse
+\endsong
