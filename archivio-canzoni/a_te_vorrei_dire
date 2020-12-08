@@ -1,0 +1,55 @@
+%titolo{A te vorrei dire}
+%autore{Gen Rosso}
+%album{La vita di ogni cosa}
+%tonalita{RE}
+%famiglia{Liturgica}
+%gruppo{}
+%momenti{Congedo}
+%identificatore{a_te_vorrei_dire}
+%data_revisione{2020_12_08}
+%trascrittore{Andrea Vanzini}
+%video{https://youtu.be/BprmNYW9nRo}
+\beginsong{A te vorrei dire}[by={Gen Rosso}]
+\ifchorded
+\beginverse*
+\vspace*{-0.8\versesep}
+{\nolyrics \[D]   \[G]   \[D]   \[G]   \[A]   \[D]   \[G]   \[D]   \[G]   \[A]}
+\vspace*{-\versesep}
+\endverse
+\fi
+\beginverse
+Se il \[D]Sole non il\[A]luminasse \[B-]più questo \[G]pallido pia\[E-]neta
+se il si\[A]lenzio della \[B-]morte ammuto\[G]lisse il mio \[D]canto
+se il \[F#]cuore della \[B-]terra non \[F#]riscaldasse \[G]più  \[A]
+non dis\[C]pere\[D]rei
+perché \[A-]troppo grande è in \[C]me la tua pre\[G]sen\[D]za
+perché \[A-]so, Dio, \[C]che tu sei \[G]amo\[D]re.  \[G] \[D] \[C] \[D]
+\endverse
+\beginchorus
+A \[G]te che ascolti \[C]vorrei dire \[G]Dio è a\[D]more, a\[C]mo\[D]re.
+A \[G]te che piangi \[C]vorrei dire \[G]Dio è a\[D]more, a\[C]mo\[D]re.
+A \[G]te che lotti \[C]vorrei dire \[G]Dio è a\[D]more, a\[C]mo\[D]re.
+\endchorus
+\beginverse
+\[G]Non ci sa\[D]rà mai a\[B-]more più g\[E-]rande
+di \[C]chi dà la \[G]vita \[A]per gli amici \[D]suoi
+e \[G]noi ab\[D]biamo cre\[B-]duto e cono\[E-]sciuto
+l'a\[C]more che \[G]Dio \[D]ha per tutti \[G]noi.    \[E&]
+\endverse
+\beginchorus
+A \[G#]te che ascolti \[C#]vorrei dire \[G#]Dio è a\[E&]more, a\[C#]mo\[E&]re.
+A \[G#]te che piangi \[C#]vorrei dire \[G#]Dio è a\[E&]more, a\[C#]mo\[E&]re.
+A \[G#]te che lotti \[C#]vorrei dire \[G#]Dio è a\[E&]more, a\[C#]mo\[E&]re.
+\endchorus
+\ifchorded
+\beginverse*
+\vspace*{-0.8\versesep}
+{\nolyrics \[G#]   \[D#]    \[C-]   \[F-]    \[C#]    \[G#]    \[B&-]    \[E&]
+\[G#]   \[D#]    \[C-]   \[F-]    \[C#]    \[G#]    \[E&]    \[G#]    \[E]}
+\vspace*{-\versesep}
+\endverse
+\fi
+\beginchorus
+Ad \[A]ogni uomo \[D]vorrei dire \[A]Dio è a\[E]more, a\[D]mo\[E]re \rep{3}
+\endchorus
+\endsong
