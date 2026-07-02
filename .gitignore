@@ -1,0 +1,51 @@
+# ---- macOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icone e metadati Finder
+Icon?
+._*
+
+# Spotlight
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Sistemi di montaggio remoti
+.VolumeIcon.icns
+com.apple.timemachine.donotpresent
+
+# ---- Go ----
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Directory dei moduli
+vendor/
+
+# Moduli Go (puoi ignorare `go.sum` se lo vuoi ricreare ogni volta)
+# go.sum
+
+# Cache degli strumenti Go (meglio non mettere in repo)
+go.work
+go.work.sum
+
+# ---- Database & dati generati ----
+songs.db
+
+# ---- Editor/IDE ----
+# VSCode
+.vscode/
+# JetBrains
+.idea/
+# Emacs/Vim/Sublime
+*.swp
+*~
+*.sublime-workspace
+*.sublime-project
