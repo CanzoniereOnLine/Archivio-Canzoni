@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    types: [closed] # Si attiva quando la PR viene chiusa (quindi mergiata)
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   build:
